@@ -1,0 +1,6 @@
+Player.bmp 100*500
+AI.bmp 100*500
+BattleField.bmp 4000*600
+BattleFieldBackLayer.bmp 2000*600
+City.bmp 800*600
+Menu.bmp 800*600
